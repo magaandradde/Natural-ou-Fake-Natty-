@@ -10,7 +10,7 @@ O e-book "IA e Serviço Social: explorando o futuro da prática profissional" ex
 - IA do Canva para criar ilustrações nas páginas do e-book.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para roteirizar meu Ebook, estruturar o conteúdo e refinar minhas ideias. Já o "Leonardo AI" foi usado para gerar uma imagem exclusiva para a capa do e-book. Para concluir, a montagem final foi feita no Canva, que possibilita edições criativas além de possuir uma IA que produz ilustrações conforme solicitado, a qual utilizei para ilustrar as páginas internas do e-book.
+Utilizei o "ChatGPT" para roteirizar meu e-book, estruturar o conteúdo e refinar minhas ideias. Já o "Leonardo AI" foi usado para gerar uma imagem exclusiva para a capa do e-book. Para concluir, a montagem final foi feita no Canva, que possibilita edições criativas além de possuir uma IA que produz ilustrações conforme solicitado, a qual utilizei para ilustrar as páginas internas do e-book.
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, se conectando com minha área de mestrado.
